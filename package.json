@@ -1,0 +1,17 @@
+{
+  "name": "phaser",
+  "version": "1.0.0",
+  "description": "proyecto de IA",
+  "main": "demoss.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cris",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
